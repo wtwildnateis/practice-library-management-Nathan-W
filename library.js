@@ -40,7 +40,7 @@ class LibraryItem {
     constructor(title, id) {
         this.title = title;
         this.id = id;
-        this.isAvailable = isAvailable = true;
+        this.isAvailable = true;
     }
 
 
